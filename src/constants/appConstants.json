@@ -1,0 +1,67 @@
+{
+  "AVAILABLE_SOCIAL_LOGINS": {
+    "GOOGLE": "GOOGLE",
+    "GITHUB": "GITHUB",
+    "EMAIL_PASSWORD": "EMAIL_PASSWORD"
+  },
+  "AVAILABLE_USER_ROLES": {
+    "ADMIN": "ADMIN",
+    "USER": "USER"
+  },
+  "USER_TEMPORARY_TOKEN_EXPIRY_20_MINUTES": 20,
+  "USER_LOGIN_TYPE": {
+    "GOOGLE": "GOOGLE",
+    "GITHUB": "GITHUB",
+    "EMAIL_PASSWORD": "EMAIL_PASSWORD"
+  },
+  "ENV": {
+    "DEVELOPMENT": "development",
+    "STAGING": "staging",
+    "PRODUCTION": "production"
+  },
+  "ROLES": {
+    "ADMIN": "ADMIN",
+    "USER": "USER"
+  },
+  "ENV_KEYS": {
+    "TOKEN_SECRET": "TOKEN_SECRET",
+    "JWT_SECRET_KEY": "JWT_SECRET_KEY"
+  },
+  "DATABASE_CONFIG": "DATABASE_CONFIG",
+  "STATUS": {
+    "PENDING": "PENDING",
+    "IN_PROGRESS": "IN_PROGRESS",
+    "COMPLETED": "COMPLETED"
+  },
+  "RESPONSES": {
+    "SUCCESS": "SUCCESS",
+    "ERROR": "ERROR"
+  },
+  "DEFAULT_ROLE": 1,
+  "MAILER_OPTIONS": "MAILER_OPTIONS",
+  "DEFAULT_OTP": "123456",
+  "OTP_LENGTH": 6,
+  "OTP_EXPIRY_TIME": 5,
+  "OTP_VERIFICATION_TYPE": {
+    "SIGN_UP": "SIGN_UP",
+    "LOGIN": "LOGIN",
+    "FORGOT_PASSWORD": "FORGOT_PASSWORD"
+  },
+  "OTP_MEDIUM": {
+    "EMAIL": "EMAIL",
+    "MOBILE": "MOBILE"
+  },
+  "OTP_NUMBERS": "0123456789",
+  "DEFAULT_LANGUAGE": "en",
+  "CUSTOMER_ID_LENGTH": 10,
+  "AVATAR": "AVATAR",
+  "API_KEY": "0dc028b7-e07e-471c-9586-fa40ba0d85f6",
+  "ADMIN_ACCESS": [2, 4],
+  "MAILGEN_CONFIG": {
+    "THEME": "default",
+    "PRODUCT": {
+      "NAME": "Need Notes",
+      "LINK": "https://freeapi.app"
+    }
+  }
+}
